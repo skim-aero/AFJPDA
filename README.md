@@ -42,5 +42,5 @@ Detail of the algorithm can be found from following paper:
 ## 4. Version Information
 
 * 1st Mar 2023 Beta 0.0 Version: First Commit
-* 30th Mar 2023 Beta 1.0 Version: First full version
+* 30th Mar 2023 Beta 1.0 Version: First full version (Older versions are not available on GitHub due to repo issue)
 * 19th Jul 2024 Release 1.0 Version: First public version
