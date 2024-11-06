@@ -1,0 +1,15 @@
+{
+    "root":"/home/sukkeun/Workspace/AFJPDA",
+    "train":
+    {
+        "carla":"./data/carla.train"
+    },
+    "test_emb":
+    {
+        "carla":"./data/carla.train"
+    },
+    "test":
+    {
+        "carla":"./data/carla.val"
+    }
+}

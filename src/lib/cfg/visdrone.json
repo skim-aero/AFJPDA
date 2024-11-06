@@ -1,0 +1,15 @@
+{
+    "root":"/home/sukkeun/Workspace/AFJPDA",
+    "train":
+    {
+        "visdrone":"./data/visdrone.train"
+    },
+    "test_emb":
+    {
+        "visdrone":"./data/visdrone.train"
+    },
+    "test":
+    {
+        "visdrone":"./data/visdrone.train"
+    }
+}
