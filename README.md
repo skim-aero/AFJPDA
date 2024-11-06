@@ -2,8 +2,11 @@
 ***
 ## Version Information
 
-* 1st Mar 2023 Beta 0.0 Version: First Commit
-* 30th Mar 2023 Beta 1.0 Version: First full version
+* 1st Mar 2023 Beta 0.0: First commit
+* 30th Mar 2023 Beta 1.0: First full
+
+--- Older versions are not available on github ---
+* 19th Jul 2024 Release 1.0: First public 
 ***
 ## 1. Software Introduction
 
@@ -13,7 +16,7 @@
 [MCMOT](https://github.com/CaptainEven/MCMOT)
 
 Detail of the algorithm can be found from following paper:
-[AFJPDA paeper](Will be updated)
+[AFJPDA](https://arc.aiaa.org/doi/full/10.2514/1.I011301)
 
 **Developed by Sukkeun Kim**
 * Email: <s.kim.aero@gmail.com>
