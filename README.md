@@ -1,16 +1,8 @@
 # AFJPDA: Appearance Feature-aided JPDA
-***
-## Version Information
 
-* 1st Mar 2023 Beta 0.0: First commit
-* 30th Mar 2023 Beta 1.0: First full
-
---- Older versions are not available on github ---
-* 19th Jul 2024 Release 1.0: First public 
-***
 ## 1. Software Introduction
 
- This is a multi-class multi-object tracking (MCMOT) algorithm using joint probabilistic data association (JPDA) filter based on FairMOT and MCMOT on following links:
+This is a multi-class multi-object tracking (MCMOT) algorithm with joint probabilistic data association (JPDA) filter based on FairMOT and MCMOT on following links:
  
 [FairMOT](https://github.com/ifzhang/FairMOT)
 [MCMOT](https://github.com/CaptainEven/MCMOT)
@@ -45,3 +37,11 @@ Detail of the algorithm can be found from following paper:
 * Training
 	>$ python train.py
 * Training data label: [ClassID, ReID, X, Y, W, H]
+
+## 4. Version Information
+
+* 1st Mar 2023 Beta 0.0: First commit
+* 30th Mar 2023 Beta 1.0: First full
+
+--- Older versions are not available on github ---
+* 19th Jul 2024 Release 1.0: First public 
